@@ -18,8 +18,8 @@ PASSWORD = os.environ["PASSWORD"]  # 密码
 
 # TrueCaptcha https://apitruecaptcha.org
 # 验证码识别，默认使用 Demo API，每天有100次免费额度，建议自行注册以确保稳定性
-USERID = os.environ["USERID"]
-APIKEY = os.environ["APIKEY"]
+USERID = os.environ["c123c"]
+APIKEY = os.environ["fhPZR431uVRRGFPoYFDJ"]
 TRUECAPTCHA_CHECK_USAGE = True
 
 # Telegram Bot Push https://core.telegram.org/bots/api#authorizing-your-bot
